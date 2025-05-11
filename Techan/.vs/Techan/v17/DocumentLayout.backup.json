@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\viewmodels\\sliders\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\viewmodels\\sliders\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\viewmodels\\sliders\\slidergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\viewmodels\\sliders\\slidergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\viewmodels\\brand\\brandupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\viewmodels\\brand\\brandupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\viewmodels\\brand\\brandgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\viewmodels\\brand\\brandgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\viewmodels\\brand\\brandcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\viewmodels\\brand\\brandcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\migrations\\20250511192034_createdsliderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\migrations\\20250511192034_createdsliderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,24 +83,12 @@
       "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|solutionrelative:techan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11E441AC-5030-4909-A28A-8FC056AE2FF8}|Techan\\Techan.csproj|c:\\users\\zeyneb\\desktop\\ntechan\\techannn\\techan\\techan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,45 +122,189 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250511192034_CreatedSlidersTable.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Migrations\\20250511192034_CreatedSlidersTable.cs",
-              "RelativeDocumentMoniker": "Techan\\Migrations\\20250511192034_CreatedSlidersTable.cs",
-              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Migrations\\20250511192034_CreatedSlidersTable.cs",
-              "RelativeToolTip": "Techan\\Migrations\\20250511192034_CreatedSlidersTable.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "BrandUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Brand\\BrandUpdateVM.cs",
+              "RelativeDocumentMoniker": "Techan\\ViewModels\\Brand\\BrandUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Brand\\BrandUpdateVM.cs*",
+              "RelativeToolTip": "Techan\\ViewModels\\Brand\\BrandUpdateVM.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:20:37.399Z",
+              "WhenOpened": "2025-05-11T20:47:39.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SliderCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "RelativeDocumentMoniker": "Techan\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "RelativeToolTip": "Techan\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:12:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Sliders\\SliderGetVM.cs",
+              "RelativeDocumentMoniker": "Techan\\ViewModels\\Sliders\\SliderGetVM.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Sliders\\SliderGetVM.cs*",
+              "RelativeToolTip": "Techan\\ViewModels\\Sliders\\SliderGetVM.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:21:49.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Sliders\\SliderUpdateVM.cs",
+              "RelativeDocumentMoniker": "Techan\\ViewModels\\Sliders\\SliderUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Sliders\\SliderUpdateVM.cs*",
+              "RelativeToolTip": "Techan\\ViewModels\\Sliders\\SliderUpdateVM.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:28:46.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Create.cshtml*",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Slider\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:19:57.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Index.cshtml*",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Slider\\Index.cshtml*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T19:51:21.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TechanDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\DataAcessLayer\\TechanDbContext.cs",
-              "RelativeDocumentMoniker": "Techan\\DataAcessLayer\\TechanDbContext.cs",
-              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\DataAcessLayer\\TechanDbContext.cs",
-              "RelativeToolTip": "Techan\\DataAcessLayer\\TechanDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:34:05.98Z",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Update.cshtml*",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Slider\\Update.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:32:50.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T17:00:31.92Z"
+              "WhenOpened": "2025-05-11T20:07:43.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "BrandGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Brand\\BrandGetVM.cs",
+              "RelativeDocumentMoniker": "Techan\\ViewModels\\Brand\\BrandGetVM.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Brand\\BrandGetVM.cs*",
+              "RelativeToolTip": "Techan\\ViewModels\\Brand\\BrandGetVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:46:55.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrandCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Brand\\BrandCreateVM.cs",
+              "RelativeDocumentMoniker": "Techan\\ViewModels\\Brand\\BrandCreateVM.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ViewModels\\Brand\\BrandCreateVM.cs*",
+              "RelativeToolTip": "Techan\\ViewModels\\Brand\\BrandCreateVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:45:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Controllers\\SliderController.cs*",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\SliderController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:40:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:35:10.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Controllers\\BrandController.cs*",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\BrandController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:41:39.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Brand\\Index.cshtml*",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Brand\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:43:52.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -120,31 +316,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:00:31.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TechanDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\DataAcessLayer\\TechanDbContext.cs",
+              "RelativeDocumentMoniker": "Techan\\DataAcessLayer\\TechanDbContext.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\DataAcessLayer\\TechanDbContext.cs",
+              "RelativeToolTip": "Techan\\DataAcessLayer\\TechanDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:34:05.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAEwDkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T16:41:04.103Z"
+              "WhenOpened": "2025-05-11T16:41:04.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAcAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Techan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T12:53:14.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250511192034_CreatedSlidersTable.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Migrations\\20250511192034_CreatedSlidersTable.cs",
+              "RelativeDocumentMoniker": "Techan\\Migrations\\20250511192034_CreatedSlidersTable.cs",
+              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Migrations\\20250511192034_CreatedSlidersTable.cs",
+              "RelativeToolTip": "Techan\\Migrations\\20250511192034_CreatedSlidersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T16:35:10.697Z"
+              "WhenOpened": "2025-05-11T19:20:37.399Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Techan\\Views\\_ViewStart.cshtml",
@@ -156,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Program.cs",
               "RelativeDocumentMoniker": "Techan\\Program.cs",
@@ -164,12 +399,11 @@
               "RelativeToolTip": "Techan\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T15:12:50.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T15:12:50.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "Techan\\Models\\Slider.cs",
@@ -177,24 +411,11 @@
               "RelativeToolTip": "Techan\\Models\\Slider.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA5wAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T18:13:48.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T18:13:48.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Techan\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Techan\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T12:53:14.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Techan\\Views\\Home\\Index.cshtml",
@@ -206,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Techan\\ScaffoldingReadMe.txt",
@@ -218,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Zeyneb\\Desktop\\NTechan\\Techannn\\Techan\\Techan\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Techan\\Controllers\\HomeController.cs",

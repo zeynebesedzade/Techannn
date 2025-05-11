@@ -1,9 +1,8 @@
-﻿using Techan.Models.Common;
-
-namespace Techan.Models
+﻿namespace Techan.ViewModels.Sliders
 {
-    public class Slider:BaseEntity
+    public class SliderGetVM
     {
+        public int Id { get; set; }
         public string ImagePath { get; set; }
         public string LittleTitle { get; set; }
         public string Title { get; set; }

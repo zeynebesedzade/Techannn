@@ -8,10 +8,10 @@ namespace Techan
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            //builder.Services.AddDbContext<TechanDbContext>(opt =>
-            //{
-            //    opt.UseSqlServer("Server=.\\SQLEXPRESS;Database=Techan;Trusted_Connection=true;TrustServerCertificate=true");
-            //});
+            builder.Services.AddDbContext<TechanDbContext>(opt =>
+            {
+                opt.UseSqlServer("Server=.\\SQLEXPRESS;Database=Techan;Trusted_Connection=true;TrustServerCertificate=true");
+            });
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();

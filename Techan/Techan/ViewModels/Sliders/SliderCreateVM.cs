@@ -1,10 +1,8 @@
-﻿using Techan.Models.Common;
-
-namespace Techan.Models
+﻿namespace Techan.ViewModels.Sliders
 {
-    public class Slider:BaseEntity
+    public class SliderCreateVM
     {
-        public string ImagePath { get; set; }
+        public IFormFile Image { get; set; }
         public string LittleTitle { get; set; }
         public string Title { get; set; }
         public string BigTitle { get; set; }
