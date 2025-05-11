@@ -2,7 +2,8 @@
 
 namespace Techan.Areas.Admin.Controllers
 {
-    public class DasboardController : Controller
+    [Area("Admin")]
+    public class DashboardController : Controller
     {
         public IActionResult Index()
         {

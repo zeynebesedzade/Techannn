@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Techan.DataAcessLayer;
+
 namespace Techan
 {
     public class Program
@@ -5,6 +8,10 @@ namespace Techan
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            //builder.Services.AddDbContext<TechanDbContext>(opt =>
+            //{
+            //    opt.UseSqlServer("Server=.\\SQLEXPRESS;Database=Techan;Trusted_Connection=true;TrustServerCertificate=true");
+            //});
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
@@ -23,7 +30,7 @@ namespace Techan
             app.UseAuthorization();
             app.MapControllerRoute(
             name: "areas",
-            pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+            pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
           );
             app.MapControllerRoute(
                 name: "default",
