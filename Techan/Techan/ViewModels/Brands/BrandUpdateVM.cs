@@ -7,7 +7,9 @@ namespace Techan.ViewModels.Brand
         public int Id { get; set; }
         public string Name { get; set; }
         public string? ImagePath { get; set; }
-        [NotMapped]
+        //[NotMapped]
         public IFormFile? Image { get; set; }
+        public string ImageUrl { get; internal set; }
+        //public IFormFile ImageFile { get; internal set; }
     }
 }

@@ -1,11 +1,16 @@
 ﻿using System.Drawing.Drawing2D;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Techan.DataAcessLayer;
+using Techan.Models;
+using Techan.ViewModels.Brand;
 
 namespace Techan.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class BrandController : Controller
+    [Authorize(Roles = "Superadmin,Admin,Moderator")]
+    public class BrandController(TechanDbContext _context) : Controller
     {
         public async Task<IActionResult> Index()
         {
@@ -67,13 +72,13 @@ namespace Techan.Areas.Admin.Controllers
             if (!ModelState.IsValid) return View(model);
             var entity = await _context.Brands.FirstOrDefaultAsync(x => x.Id == id);
             if (entity == null) return BadRequest();
-            if (model.ImageUrl != null)
+            if (model.Image != null)
             {
-                string newFileName = Path.GetRandomFileName() + Path.GetExtension(model.ImageFile.FileName);
+                string newFileName = Path.GetRandomFileName() + Path.GetExtension(model.Image.FileName);
                 string newPath = Path.Combine("wwwroot", "imgs", "brands", newFileName);
                 await using (FileStream fs = System.IO.File.Create(newPath))
                 {
-                    model.ImageFile.CopyToAsync(fs);
+                    model.Image.CopyToAsync(fs);
                 }
                 entity.Name = model.Name;
                 entity.ImageUrl = newFileName;
